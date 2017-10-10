@@ -1,0 +1,11 @@
+C:\Dev\Projetos\Rede Taroba\TarobaNews\TarobaNews.Portal\bin\Debug\netcoreapp2.0\TarobaNews.Portal.deps.json
+C:\Dev\Projetos\Rede Taroba\TarobaNews\TarobaNews.Portal\bin\Debug\netcoreapp2.0\TarobaNews.Portal.runtimeconfig.json
+C:\Dev\Projetos\Rede Taroba\TarobaNews\TarobaNews.Portal\bin\Debug\netcoreapp2.0\TarobaNews.Portal.runtimeconfig.dev.json
+C:\Dev\Projetos\Rede Taroba\TarobaNews\TarobaNews.Portal\bin\Debug\netcoreapp2.0\TarobaNews.Portal.dll
+C:\Dev\Projetos\Rede Taroba\TarobaNews\TarobaNews.Portal\bin\Debug\netcoreapp2.0\TarobaNews.Portal.pdb
+C:\Dev\Projetos\Rede Taroba\TarobaNews\TarobaNews.Portal\obj\Debug\netcoreapp2.0\TarobaNews.Portal.csprojResolveAssemblyReference.cache
+C:\Dev\Projetos\Rede Taroba\TarobaNews\TarobaNews.Portal\obj\Debug\netcoreapp2.0\TarobaNews.Portal.csproj.CoreCompileInputs.cache
+C:\Dev\Projetos\Rede Taroba\TarobaNews\TarobaNews.Portal\obj\Debug\netcoreapp2.0\TarobaNews.Portal.AssemblyInfoInputs.cache
+C:\Dev\Projetos\Rede Taroba\TarobaNews\TarobaNews.Portal\obj\Debug\netcoreapp2.0\TarobaNews.Portal.AssemblyInfo.cs
+C:\Dev\Projetos\Rede Taroba\TarobaNews\TarobaNews.Portal\obj\Debug\netcoreapp2.0\TarobaNews.Portal.dll
+C:\Dev\Projetos\Rede Taroba\TarobaNews\TarobaNews.Portal\obj\Debug\netcoreapp2.0\TarobaNews.Portal.pdb
