@@ -11959,7 +11959,7 @@
       ]
     },
     "System.Threading.Tasks.Parallel/4.3.0": {
-      "sha512": "1OrA6DjHtE44auX5q8HMsHNAnwBAUJw5sHb6lHvrE7OpCQnBHTkJr0SajopdeKsVUbBck4cMgXdvyWiYB10uXA==",
+      "sha512": "cbjBNZHf/vQCfcdhzx7knsiygoCKgxL8mZOeocXZn5gWhCdzHIq6bYNKWX0LAJCWYP7bds4yBK8p06YkP0oa0g==",
       "type": "package",
       "path": "system.threading.tasks.parallel/4.3.0",
       "files": [
@@ -12533,33 +12533,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\wilia\\.nuget\\packages\\": {},
+    "C:\\Users\\Daniel\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Projetos\\Rede Taroba\\TarobaNews\\TarobaNews.Portal\\TarobaNews.Portal.csproj",
+      "projectUniqueName": "D:\\projeto\\tarobanews\\TarobaNews.Portal\\TarobaNews.Portal.csproj",
       "projectName": "TarobaNews.Portal",
-      "projectPath": "C:\\Dev\\Projetos\\Rede Taroba\\TarobaNews\\TarobaNews.Portal\\TarobaNews.Portal.csproj",
-      "packagesPath": "C:\\Users\\wilia\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Projetos\\Rede Taroba\\TarobaNews\\TarobaNews.Portal\\obj\\",
+      "projectPath": "D:\\projeto\\tarobanews\\TarobaNews.Portal\\TarobaNews.Portal.csproj",
+      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+      "outputPath": "D:\\projeto\\tarobanews\\TarobaNews.Portal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\wilia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

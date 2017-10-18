@@ -1,0 +1,44 @@
+/*#####################
+Additional Styles (required)
+######################*/
+.carousel-indicators {
+    bottom:-40px;
+    left:0;
+    width:100%;
+    background: #FBFBFB;
+    padding: 6px 0px;
+    margin-left:0;
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+.carousel-indicators li {
+    width:12px;
+    height:12px;
+    background:#fff;
+    border-color:#1592E6;
+
+}
+.carousel-indicators .active {
+    width:14px;
+    height:14px;
+    background:#1592E6;
+    border-color:#1592E6;
+
+}
+.carousel-inner .thumbnail {
+    margin-bottom:0;
+    border-bottom-left-radius:0;
+    border-bottom-right-radius:0;
+}
+.carousel-inner .caption {
+    background: #fff;
+    padding: 10px;
+}
+
+.slide .thumbnail {
+    padding: 0;
+    border: 0;
+}
+.slide h4 {
+    font-weight: bold;
+}
